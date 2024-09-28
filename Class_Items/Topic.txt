@@ -1,0 +1,17 @@
+1. Introduction to Selenium WebDriver 
+	- Overview of Selenium WebDriver and its features
+2. Setting Up Selenium WebDriver Environment
+	- Add Necessary Dependency
+	- Creating a basic Selenium WebDriver script
+	- Configure Browser Setup Class
+3. TestNG Annotation
+	- BeforeSuite
+	- BeforeTest
+	- BeforeClass
+	- BeforeMethod
+	- Test Case
+	- AfterMethod
+	- AfterClass
+	- AfterTest
+	- AfterSuite
+
