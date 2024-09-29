@@ -14,4 +14,18 @@
 	- AfterClass
 	- AfterTest
 	- AfterSuite
+4. Locating Web Elements
+    - What are Locators in Selenium?
+    - Different Locators in Selenium WebDriver
+    - ID Locator
+    - Name Locator
+    - LinkText Locator
+    - Partial LinkText Locator
+    - Tag Name Locator
+    - Class Name Locator
+    - CSS Selector (Cascading Style Sheets)
+    - XPath Selector
+    - Custom Xpath
+    - Custom CSS
+
 
