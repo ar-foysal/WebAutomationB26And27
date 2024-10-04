@@ -27,5 +27,36 @@
     - XPath Selector
     - Custom Xpath
     - Custom CSS
+5. Locating tools
+    - SelectorsHub
+    - ChroPath
+6. Interacting with Web Elements
+    - SendKeys Command
+    - Click Command
+    - Clear Command
+    - Get Attribute Command
+    - Get CSS Value Command
+    - Get Text Command
+    - Is Displayed Command
+    - Is Enabled Command
+    - Is Selected Command
+7. Navigating Through Web Pages
+    - Navigate to Command
+    - Navigate Forward Command
+    - Navigate Back Command
+    - Navigate Refresh Command
+8. Browser Commands
+    - Get Command
+    - Get Current URL Command
+    - Get Title Command
+    - Close Command
+    - Quit Command
+    - Minimize
+    - Maximize
+    - Full Screen
+    - Create new window (or) new tab
+    - Switching windows or tabs
+
+
 
 
