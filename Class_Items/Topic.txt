@@ -56,6 +56,16 @@
     - Full Screen
     - Create new window (or) new tab
     - Switching windows or tabs
+9. Handling alerts and pop-ups
+    - Simple alert
+    - Prompt Alert
+    - Confirmation Alert
+10.Action & Select Class
+    - Select Class Methods
+    - Scroll Down or UP Page
+    - Mouse Hover
+    - Copy & Paste
+
 
 
 
