@@ -65,6 +65,25 @@
     - Scroll Down or UP Page
     - Mouse Hover
     - Copy & Paste
+11.JavaScriptExecutor
+    - Scroll Down or UP Page
+    - Scroll To element
+12.Handling Frames
+    - Switching between frames
+    - Interacting with elements inside frames
+13. Waits
+    - Understanding and its importance in Selenium WebDriver
+    - Implicit and explicit waits(WebDriverWait)
+    - sleep()
+14.Assertions
+    - Hard Assertion
+    - Soft Assertion
+
+
+
+
+
+
 
 
 
